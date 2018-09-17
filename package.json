@@ -4,11 +4,11 @@
   "description": "A slash command that returns the top 5 Google search results",
   "repository": {
     "type": "git",
-    "url": "https://github.com/camwhite/slack-google.git"
+    "url": "https://github.com/jitigamb2/slack-google.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/camwhite/slack-google/issues"
+    "url": "https://github.com/jitigamb2/slack-google/issues"
   },
   "dependencies": {
     "express": "^4.13.4",
